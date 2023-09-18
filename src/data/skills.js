@@ -15,6 +15,13 @@ export const allSkills = [
  {"skill":"Redux",
     "image":"icon-redux"
 },
+{"skill":"Nodejs",
+"image":"icon-node-js"
+},
+{"skill":"Mongodb",
+"image":"icon-mongodb"
+},
+
  {"skill":"Git",
     "image":"icon-github"
 },
