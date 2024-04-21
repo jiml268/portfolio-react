@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portfolio-react/static/css/main.be6150b2.css",
-    "main.js": "/portfolio-react/static/js/main.0fcb489a.js",
+    "main.js": "/portfolio-react/static/js/main.494eee75.js",
     "static/js/787.aeca62f9.chunk.js": "/portfolio-react/static/js/787.aeca62f9.chunk.js",
     "static/media/James Lynch Front-End resume.pdf": "/portfolio-react/static/media/James Lynch Front-End resume.962aa7a9d77eeb7ad06e.pdf",
     "static/media/James-lynch-avatar.png": "/portfolio-react/static/media/James-lynch-avatar.717b0188843ba09c343e.png",
@@ -10,11 +10,11 @@
     "static/media/wave.png": "/portfolio-react/static/media/wave.e68497afbde30f862124.png",
     "index.html": "/portfolio-react/index.html",
     "main.be6150b2.css.map": "/portfolio-react/static/css/main.be6150b2.css.map",
-    "main.0fcb489a.js.map": "/portfolio-react/static/js/main.0fcb489a.js.map",
+    "main.494eee75.js.map": "/portfolio-react/static/js/main.494eee75.js.map",
     "787.aeca62f9.chunk.js.map": "/portfolio-react/static/js/787.aeca62f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.be6150b2.css",
-    "static/js/main.0fcb489a.js"
+    "static/js/main.494eee75.js"
   ]
 }
