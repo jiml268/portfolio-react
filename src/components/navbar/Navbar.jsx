@@ -1,5 +1,7 @@
 import { useRef } from "react";
 import { FaBars, FaTimes } from "react-icons/fa";
+import { HashLink } from 'react-router-hash-link';
+
 // import "../Styles/main.css";
 
 function Navbar() {
@@ -15,12 +17,12 @@ function Navbar() {
 		<header>
 			
 			<nav ref={navRef} id = "nav">
-				<a href="/#intro" onClick={showNavbar}>Home</a>
-				<a href="/#about-me" onClick={showNavbar}>About Me</a>
-				<a href="/#skills"  onClick={showNavbar}>Skills</a>
-				<a href="/#Portfolio"  onClick={showNavbar}>Portfolio</a>
-				<a href="/#contact"  onClick={showNavbar}>Contact Me</a>
-				<a href="/#my-info"  onClick={showNavbar}>Resume</a>
+				<HashLink to="/#about-me">About Me</HashLink>
+				<HashLink to="/#skills">Skills</HashLink>
+				<HashLink to="/#Portfolio">Portfolio</HashLink>
+				<HashLink to="/#contact">Contact Me</HashLink>
+				<HashLink to="/#my-info">Resume</HashLink>
+
 
                 <button
 					className="nav-btn nav-close-btn"
