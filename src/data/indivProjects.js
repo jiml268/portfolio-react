@@ -1,4 +1,55 @@
-export const indivProjects =[
+export const indivProjects = [
+     {
+ "title":"Mind Bending Quizzes",
+ "image": "./images/minebending.png",
+        "skills":
+            [
+                {
+                    "skillName": "React",
+                    "skillImage": "icon-react"
+                },
+                 {
+                    "skillName": "Redux",
+                    "skillImage": "icon-redux"
+                },
+                  {
+                    "skillName": "JavaScript",
+                    "skillImage": "icon-javascript"
+                },
+             {
+                    "skillName": "CSS",
+                    "skillImage": "icon-css3"
+                },
+             {
+                    "skillName": "Node js",
+                    "skillImage": "icon-node-js"
+                },
+             {
+                    "skillName": "Express",
+                    "skillImage": "icon-node-js"
+                },
+             {
+                    "skillName": "MongoDB",
+                    "skillImage": "icon-mongodb"
+                },
+             {
+                    "skillName": "Material UI",
+                    "skillImage": "icon-material-ui"
+                },
+              {
+                    "skillName": "JWT",
+                    "skillImage": "icon-jwt"
+                },
+                {
+                    "skillName": "bcrypt",
+                    "skillImage": "icon-hash"
+                },
+            ],
+        "desc": "Mind Bending Quizzes is a place to put your mind to the test.  With over 20 Categories and over 19,000 questions we will test your brain to the fullest",
+        "gitLink": "https://github.com/jiml268/quiz",
+             "liveLink": "https://jiml268.github.io/quiz/"
+                
+    },
     {
  "title":"React Phonebook",
  "image": "./images/phonebook.png",
@@ -21,7 +72,7 @@ export const indivProjects =[
                     "skillImage": "icon-sass"
                 }
             ],
-        "Desc": "An application to create an electronic phonebook. Contacts are stored on local storage so they will remain after the application is closed.",
+        "desc": "An application to create an electronic phonebook. Contacts are stored on local storage so they will remain after the application is closed.",
         "gitLink": "https://github.com/jiml268/react-phonebook.git",
              "liveLink": "https://jiml268.github.io/react-phonebook/"
                 
@@ -45,7 +96,7 @@ export const indivProjects =[
                 }
              
             ],
-        "Desc": "An application to search for information about countries by their partial or full names. This application uses the public API Rest Countries. Application will display the country on a map",
+        "desc": "An application to search for information about countries by their partial or full names. This application uses the public API Rest Countries. Application will display the country on a map",
         "gitLink": "https://github.com/jiml268/county-search.git",
              "liveLink": "https://jiml268.github.io/county-search/"
                 
@@ -69,7 +120,7 @@ export const indivProjects =[
                 }
              
             ],
-        "Desc": "This is a single-player memory matching game where the player must match pairs of cards with the same value. The game starts with you picking the number of cards and the style of the deck",
+        "desc": "This is a single-player memory matching game where the player must match pairs of cards with the same value. The game starts with you picking the number of cards and the style of the deck",
         "gitLink": "https://github.com/jiml268/MemoryMatchGame.git",
              "liveLink": "https://jiml268.github.io/MemoryMatchGame/"
                 
