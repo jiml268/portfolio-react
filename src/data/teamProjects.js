@@ -42,7 +42,7 @@ export const teamProjects = [
                     "skillImage": "icon-axios"
                 },
             ],
-        "desc": "ASlimmom is a web application designed to support mothers in their journey to maintain a healthy lifestyle.",
+        "desc": "Slimmom is a web application designed to support mothers in their journey to maintain a healthy lifestyle.",
         "gitLink": "https://github.com/gogonzogo/Slimmom",
              "liveLink": "https://gogonzogo.github.io/Slimmom/"
                 
